@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"><authors><author>DARWISH Abbas</author><author>SARROUH Chayla</author></authors><commentList><comment ref="A3" authorId="0" shapeId="0"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">Test case user defined ID
+To be used for dependecy if any
+</t></r></text></comment><comment ref="E3" authorId="1" shapeId="0"><text><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">If set to TRUE the button Up to remaining will be clicked and the value will be checked against in the agreed amount. It's defaulted to false 
+</t></r></text></comment></commentList></comments>

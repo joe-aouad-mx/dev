@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"><authors><author>DARWISH Abbas</author><author>DEGHAILI Rima</author><author>MEHDI Nader</author></authors><commentList><comment ref="A2" authorId="0" shapeId="0"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>User Defined Label. To be used in Validation sheet</t></r></text></comment><comment ref="B2" authorId="1" shapeId="0"><text><r><rPr><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>This is the Category to select. If left empty the "All" will be selected</t></r></text></comment><comment ref="C2" authorId="1" shapeId="0"><text><r><rPr><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">This is the sub-category to be selected. If left empty, "All should be selected
+</t></r></text></comment><comment ref="D2" authorId="1" shapeId="0"><text><r><rPr><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">The Queue to select (mandatory)
+</t></r></text></comment><comment ref="E2" authorId="2" shapeId="0"><text><r><rPr><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>Specify the TYPE of Action to be done on the filtered row. You have three options for which you have to provide the corresponding needed configuration:</t></r><r><rPr><b/><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+
+Event: </t></r><r><rPr><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">Provide the event type in addition to the Menu path.
+
+</t></r><r><rPr><b/><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>Validation</t></r><r><rPr><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">: Specify the Button Name
+
+</t></r><r><rPr><b/><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>OSP_NETTING</t></r><r><rPr><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>: No additional information needed in this sheet.</t></r></text></comment><comment ref="F2" authorId="2" shapeId="0"><text><r><rPr><b/><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>Specify the event type if you want to perform an action.
+
+You need to specify the menu path for this action in ths sheet under "Menu Path" column</t></r></text></comment><comment ref="G2" authorId="2" shapeId="0"><text><r><rPr><b/><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">Name of button used to perform validation Action
+
+This will only be used for Validation Actions
+</t></r></text></comment><comment ref="H2" authorId="2" shapeId="0"><text><r><rPr><b/><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">Path of event in right click menu separated by |
+
+This will only be used for EVENTS
+</t></r></text></comment><comment ref="I2" authorId="1" shapeId="0"><text><r><rPr><b/><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">Specify if TRUE/FALSE in case the validation should be exceuted with/without validation comments. 
+
+In case it is set to TRUE, the Comment details should be filled in the Validation sheet.
+
+By default, the value is TRUE. 
+</t></r></text></comment><comment ref="J2" authorId="1" shapeId="0"><text><r><rPr><sz val="8"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">Specify whether the queue is a smart queue or a standrad queue.
+
+</t></r></text></comment></commentList></comments>

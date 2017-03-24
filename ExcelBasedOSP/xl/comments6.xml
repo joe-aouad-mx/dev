@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comments xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"><authors><author>DARWISH Abbas</author><author>SARROUH Chayla</author></authors><commentList><comment ref="A1" authorId="0" shapeId="0"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">Test case user defined ID
+To be used for dependecy if any
+</t></r></text></comment><comment ref="C1" authorId="1" shapeId="0"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t>Comma seperated list of IDs. Refers to the ID in the AssetConfig sheet</t></r></text></comment><comment ref="D1" authorId="1" shapeId="0"><text><r><rPr><b/><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">If set to TRUE the link Default allocation will be clicked. Defaulted to false </t></r><r><rPr><sz val="9"/><color indexed="81"/><rFont val="Tahoma"/><family val="2"/></rPr><t xml:space="preserve">
+</t></r></text></comment></commentList></comments>
