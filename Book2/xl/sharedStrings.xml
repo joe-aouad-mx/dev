@@ -1,18 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5" uniqueCount="5">
-	<si>
-		<t>Column B</t>
-	</si>
-	<si>
-		<t>value1</t>
-	</si>
-	<si>
-		<t>value2</t>
-	</si>
-	<si>
-		<t>Column AA</t>
-	</si>
-	<si>
-		<t>value3</t>
-	</si>
-</sst>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="5" uniqueCount="5"><si><t>Column B</t></si><si><t>Column A</t></si><si><t>value</t></si><si><t>value41</t></si><si><t>value39</t></si></sst>
